@@ -50,8 +50,8 @@ I build end-to-end data solutions — from automating Excel-to-database pipeline
 dbt • Apache Airflow • Cloud data warehouses
 
 ### 📫 Connect
-- LinkedIn: linkedin.com/in/kashwini-visvanathan
-- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/kashwini-visvanathan](https://www.linkedin.com/in/kashwini-visvanathan-ba00a3366/)
+- Email: kashwinivisvanathan@gmail.com
 
 ---
 ⭐ Open to Junior Data Engineer, Data Analyst, and Data Scientist roles
