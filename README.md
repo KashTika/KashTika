@@ -46,9 +46,6 @@ I build end-to-end data solutions — from automating Excel-to-database pipeline
 
 ---
 
-### 🌱 Currently Learning
-dbt • Apache Airflow • Cloud data warehouses
-
 ### 📫 Connect
 - LinkedIn: [linkedin.com/in/kashwini-visvanathan](https://www.linkedin.com/in/kashwini-visvanathan-ba00a3366/)
 - Email: kashwinivisvanathan@gmail.com
